@@ -7,22 +7,45 @@ export default {
   theme: {
     extend: {
       colors: {
-        primary: '#5B2E91',    // Deep Purple
-        accent: '#14D9C4',     // Neon Teal
-        warning: '#F6C453',    // Warm Yellow
-        dark: '#111827',       // Charcoal
-        light: '#F9FAFB',      // Snow
+        'primary-50': '#f5f3ff',
+        'primary-100': '#ede9fe',
+        'primary-200': '#ddd6fe',
+        'primary-300': '#c4b5fd',
+        'primary-400': '#a78bfa',
+        'primary-500': '#8b5cf6',
+        'primary-600': '#7c3aed',
+        'primary-700': '#6d28d9',
+        'primary-800': '#5b21b6',
+        'primary-900': '#4c1d95',
+        'primary': '#5B2E91',
+        'accent-50': '#f0fdfa',
+        'accent-100': '#ccfbf1',
+        'accent-200': '#99f6e4',
+        'accent-300': '#5eead4',
+        'accent-400': '#2dd4bf',
+        'accent-500': '#14b8a6',
+        'accent-600': '#0d9488',
+        'accent-700': '#0f766e',
+        'accent-800': '#115e59',
+        'accent-900': '#134e4a',
+        'accent': '#14D9C4',
+        'warning-50': '#fffbeb',
+        'warning-100': '#fef3c7',
+        'warning-200': '#fde68a',
+        'warning-300': '#fcd34d',
+        'warning-400': '#fbbf24',
+        'warning-500': '#f59e0b',
+        'warning-600': '#d97706',
+        'warning-700': '#b45309',
+        'warning-800': '#92400e',
+        'warning-900': '#78350f',
+        'warning': '#F6C453',
       },
       fontFamily: {
         'heading': ['Poppins', 'sans-serif'],
         'body': ['Inter', 'sans-serif'],
       },
-      backgroundColor: {
-        'light': '#F9FAFB',
-        'dark': '#111827',
-      },
     },
   },
   plugins: [],
-  darkMode: 'class',
 }
