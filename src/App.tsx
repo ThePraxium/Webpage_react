@@ -11,7 +11,7 @@ import AdminStub from './pages/AdminStub';
 function App() {
   return (
     <Router>
-      <div className="min-h-screen bg-gray-50">
+      <div className="min-h-screen bg-primary-50">
         <Navigation />
         <Routes>
           <Route path="/" element={<Home />} />
