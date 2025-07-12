@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Small Table",
+    "capacity": 2,
+    "location": "Window Section",
+    "amenities": ["power outlet", "good lighting"],
+    "available": true
+  },
+  {
+    "id": 2,
+    "name": "Medium Table",
+    "capacity": 4,
+    "location": "Main Gaming Area",
+    "amenities": ["large surface", "comfortable seating"],
+    "available": true
+  },
+  {
+    "id": 3,
+    "name": "Large Table",
+    "capacity": 6,
+    "location": "Center Area",
+    "amenities": ["spacious", "multiple power outlets", "premium seating"],
+    "available": true
+  },
+  {
+    "id": 4,
+    "name": "Party Table",
+    "capacity": 8,
+    "location": "Private Section",
+    "amenities": ["private area", "large surface", "party setup"],
+    "available": false
+  }
+]
