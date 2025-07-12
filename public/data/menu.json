@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "name": "Game Night Nachos",
+    "category": "Snacks",
+    "description": "Loaded tortilla chips with cheese, jalapeños, and sour cream",
+    "price": 12.99,
+    "allergens": ["dairy"],
+    "imageUrl": "/img/food/nachos.webp",
+    "vegetarian": true,
+    "spiceLevel": "mild"
+  },
+  {
+    "id": 2,
+    "name": "Strategy Sandwich",
+    "category": "Entrées",
+    "description": "Grilled chicken, avocado, bacon, and swiss on sourdough",
+    "price": 14.99,
+    "allergens": ["gluten", "dairy"],
+    "imageUrl": "/img/food/sandwich.webp",
+    "vegetarian": false,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 3,
+    "name": "Meeple Meatballs",
+    "category": "Entrées",
+    "description": "Italian-style meatballs in marinara sauce with garlic bread",
+    "price": 16.99,
+    "allergens": ["gluten", "dairy"],
+    "imageUrl": "/img/food/meatballs.webp",
+    "vegetarian": false,
+    "spiceLevel": "mild"
+  },
+  {
+    "id": 4,
+    "name": "Victory Veggie Bowl",
+    "category": "Entrées",
+    "description": "Quinoa bowl with roasted vegetables and tahini dressing",
+    "price": 13.99,
+    "allergens": ["sesame"],
+    "imageUrl": "/img/food/veggie-bowl.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 5,
+    "name": "Gamer's Fuel Coffee",
+    "category": "Beverages",
+    "description": "Double shot espresso with steamed milk and a hint of vanilla",
+    "price": 4.99,
+    "allergens": ["dairy"],
+    "imageUrl": "/img/drinks/coffee.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 6,
+    "name": "Critical Hit Cola",
+    "category": "Beverages",
+    "description": "House-made craft cola with natural ingredients",
+    "price": 3.99,
+    "allergens": [],
+    "imageUrl": "/img/drinks/cola.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 7,
+    "name": "Lucky Dice Lemonade",
+    "category": "Beverages",
+    "description": "Fresh squeezed lemonade with mint",
+    "price": 3.49,
+    "allergens": [],
+    "imageUrl": "/img/drinks/lemonade.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 8,
+    "name": "Checkmate Cheesecake",
+    "category": "Desserts",
+    "description": "Rich New York style cheesecake with berry compote",
+    "price": 7.99,
+    "allergens": ["dairy", "gluten", "eggs"],
+    "imageUrl": "/img/desserts/cheesecake.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  },
+  {
+    "id": 9,
+    "name": "Board Game Brownies",
+    "category": "Desserts",
+    "description": "Fudgy chocolate brownies with board game piece decorations",
+    "price": 5.99,
+    "allergens": ["dairy", "gluten", "eggs"],
+    "imageUrl": "/img/desserts/brownies.webp",
+    "vegetarian": true,
+    "spiceLevel": "none"
+  }
+]
